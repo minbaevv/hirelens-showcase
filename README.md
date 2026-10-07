@@ -21,6 +21,12 @@ HireLens was developed to bring recruitment workflows into one application:
 AI output is decision support. The project is not presented as a
 validated replacement for human hiring decisions.
 
+## 📄 Project Presentation
+
+[View the HireLens presentation (PDF)](./HireLens_Case_Study.pdf)
+
+---
+
 ## My Contribution
 
 I independently developed the MVP, including its backend,
