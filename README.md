@@ -23,7 +23,7 @@ validated replacement for human hiring decisions.
 
 ## 📄 Project Presentation
 
-[View the HireLens presentation (PDF)](./HireLens_Case_Study.pdf)
+[Download the HireLens presentation (PowerPoint)](./HireLens_Case_Study.pptx)
 
 ---
 
